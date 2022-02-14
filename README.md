@@ -98,12 +98,12 @@ Etapa 3 - Desafio de projeto
 <table>
 <tr>
 <td>
-<a href="https://www.developer.mozilla.org/pt-BR/docs/Glossary/JavaScript">Repositório</a>
+<a href="https://dianamartine.github.io/dio-mentoria-calculator-js/">Projeto funcionando</a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://www.developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript">O que é o JavaScript</a>
+<a href="https://dianamartine.github.io/dio-mentoria-calculator-js/">Imagem</a>
 </td>
 </tr>
 </table>

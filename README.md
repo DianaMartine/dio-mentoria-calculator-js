@@ -103,7 +103,7 @@ Etapa 3 - Desafio de projeto
 </tr>
 <tr>
 <td>
-<a href="https://dianamartine.github.io/dio-mentoria-calculator-js/">Imagem</a>
+<a href="https://dianamartine.github.io/dio-mentoria-calculator-js/"><img src="https://github.com/DianaMartine/dio-mentoria-calculator-js/blob/main/example.png" width="200px"/></a>
 </td>
 </tr>
 </table>
